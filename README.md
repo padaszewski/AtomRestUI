@@ -6,3 +6,11 @@ A short description of your package.
 
 
 Link zu Google Docs: https://drive.google.com/drive/folders/1nC17ENc944rhbMqB9UqqisgTNExgrFzx?usp=sharing
+
+Dinge, die noch zu tun sind
+- Styling des User Interfaces
+- Request an den Server senden und Response entgegennehmen, z.B. mit Axios
+- Menüpunkte anpassen
+- Optionen in den Einstellungen hinzufügen (z.B. Autostart)
+- Request-Preview-Feature
+- Testfälle

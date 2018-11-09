@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-rest-u-i:toggle"
+    "ctrl-alt-o": "atom-rest-u-i:toggle",
+    "ctrl-alt-f": "atom-rest-u-i:test"
   }
 }
