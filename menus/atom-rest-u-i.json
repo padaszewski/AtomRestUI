@@ -17,6 +17,10 @@
             {
               "label": "Toggle",
               "command": "atom-rest-u-i:toggle"
+            },
+            {
+              "label": "Clear view",
+              "command": "atom-rest-u-i:clearView"
             }
           ]
         }
