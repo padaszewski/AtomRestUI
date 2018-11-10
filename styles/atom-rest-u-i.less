@@ -4,34 +4,25 @@
 // for a full listing of what's available.
 @import "ui-variables";
 
-
-#urlInput {
-  width: 50%;
-}
-
 .ui-container {
   margin: 20px;
-  width: 100%;
   display: flex;
   justify-content: space-around;
+  align-items: center;
   color: @text-color;
 
 }
 
-#response-header {
+textarea, input, select {
+  background-color: @input-background-color;
+  border-color: @input-border-color;
+}
+
+label {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
 }
 
 input,select {
 //  margin-right: 10px;
-}
-
-.request {
-
-}
-
-.response {
-  display: flex;
-  flex-direction: column;
 }

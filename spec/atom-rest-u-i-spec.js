@@ -12,6 +12,7 @@ describe('AtomRestUI', () => {
 
   beforeEach(() => {
     workspaceElement = atom.views.getView(atom.workspace);
+    atom.contextMenu
     activationPromise = atom.packages.activatePackage('atom-rest-u-i');
   });
 
