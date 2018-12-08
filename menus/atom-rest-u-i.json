@@ -21,6 +21,10 @@
             {
               "label": "Clear view",
               "command": "atom-rest-u-i:clearView"
+            },
+            {
+              "label": "Open Request-Modal",
+              "command": "atom-rest-u-i:openRequestModal"
             }
           ]
         }

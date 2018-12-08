@@ -4,9 +4,6 @@
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "atom-rest-u-i:toggle"
-  },
   "repository": "https://github.com/atom/atom-rest-u-i",
   "license": "MIT",
   "engines": {

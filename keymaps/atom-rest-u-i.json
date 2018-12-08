@@ -2,6 +2,7 @@
   "atom-workspace": {
     "ctrl-alt-o": "atom-rest-u-i:toggle",
     "ctrl-alt-f": "atom-rest-u-i:test",
-    "ctrl-alt-c": "atom-rest-u-i:clearView"
+    "ctrl-alt-c": "atom-rest-u-i:clearView",
+    "ctrl-alt-r": "atom-rest-u-i:openRequestModal"
   }
 }
