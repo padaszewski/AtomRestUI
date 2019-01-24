@@ -1,5 +1,5 @@
 {
-  "name": "atom-rest-u-i",
+  "name": "AtomRestUI",
   "main": "./lib/atom-rest-u-i",
   "version": "0.0.0",
   "description": "A short description of your package",
